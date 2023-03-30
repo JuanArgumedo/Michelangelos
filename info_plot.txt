@@ -1,0 +1,16 @@
+        
+Michelangelo's
+221B Baker Street
+634-5789
+Chocolove McDonell
+        
+
+Análisis de graficas
+
+De la gráfica de ítems vendidos se puede observar que los productos más vendidos fueron la pizza, seguido del gelato. 
+También se puede observar que tanto el tiramisú como el latte se vendieron en las mismas cantidades y por último el panna 
+de cotta fue el producto menos vendido. 
+
+Según la gráfica de las ventas por día, Se puede observar que las ventas fluctúan en los diferentes días manteniéndose 
+estable en los días 23, 24 y 25, obteniendo la mayor venta en el día 40 y teniendo una decaída en el día 42 y la peor venta 
+fue el día 5 a lo largo de los dos meses de análisis.
